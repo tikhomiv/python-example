@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 def main(msg):
-    // and here is a comment!
+    // print a message
     print(msg)
 
 main("Hello, world!")
